@@ -16,27 +16,26 @@ One of my key strengths lies in my ability to effectively communicate and collab
 ---
 
 ### Skills and Expertise
-| **Skill**                   | **Expertise**                                                                 |
-|-----------------------------|-------------------------------------------------------------------------------|
-
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)              | OpenAI, Azure OpenAI, AI Search, Azure AI Studio, Generative AI             |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)                  | C#                                                                          |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)             | Python                                                                      |
-| ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white)       | .NET Core, .NET MVC                                                         |
-| ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=java&logoColor=white)  | Microservices                                                               |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)           | Angular                                                                     |
+| **Skill**                                                                 | **Expertise**                                                                 |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | OpenAI, Azure OpenAI, AI Search, Azure AI Studio, Generative AI              |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  | C#                                                                           |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Python                                                                        |
+| ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dot-net&logoColor=white) | .NET Core, .NET MVC                                                         |
+| ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=java&logoColor=white) | Microservices                                                               |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Angular                                                                     |
 | ![Cloud](https://img.shields.io/badge/Cloud-AWS%20&%20Azure-232F3E?style=flat&logo=amazon-aws&logoColor=white) | Cloud Technology (AWS & Azure)                                              |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)                 | React                                                                       |
-| ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white)           | ASP.NET                                                                     |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | React                                                                       |
+| ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dot-net&logoColor=white) | ASP.NET                                                                     |
 | ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dot-net&logoColor=white) | Entity Framework, ADO.NET                                                  |
-| ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dot-net&logoColor=white)                 | LINQ                                                                        |
+| ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dot-net&logoColor=white) | LINQ                                                                        |
 | ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | MS SQL Server                                                           |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  | JavaScript, jQuery                                                          |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)                      | CSS                                                                         |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)                   | HTML                                                                        |
-| ![WCF](https://img.shields.io/badge/WCF-512BD4?style=flat&logo=dot-net&logoColor=white)                   | WCF                                                                         |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | JavaScript, jQuery                                                          |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) | CSS                                                                         |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) | HTML                                                                        |
+| ![WCF](https://img.shields.io/badge/WCF-512BD4?style=flat&logo=dot-net&logoColor=white) | WCF                                                                         |
 | ![Web Services](https://img.shields.io/badge/Web_Services-008080?style=flat&logo=webservices&logoColor=white) | Web Services, Web API                                                    |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)              | Docker                                                                      |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Docker                                                                      |
 
 ---
 
