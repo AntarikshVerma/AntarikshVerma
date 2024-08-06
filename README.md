@@ -1,4 +1,4 @@
-# Antariksh (He/Him)
+# Antariksh
 
 ## Lead AI Full Stack Developer | Solution Architect | AI Consultant | Generative AI | Open AI | AI & ML | RAG | Microsoft Technology Enthusiast | .Net (Core & MVC) | Angular | React | Azure | AWS | Microservices
 
@@ -12,6 +12,31 @@ My expertise encompasses Full Stack Development, Microsoft Technologies, and Clo
 In addition, I have extensive experience with Generative AI and AI skills including Azure OpenAI, RAG architecture, Azure AI Search, and Azure AI Studio. I have worked with various models such as GPT-3.5 Turbo, GPT-4, LLaMA 2, and LLaMA 3 and various vector databases.
 
 One of my key strengths lies in my ability to effectively communicate and collaborate with clients. By closely engaging with them, I ensure a thorough understanding of their project requirements, allowing my team to deliver tailored and impactful solutions. My commitment to delivering high-quality results, combined with my passion for innovation in technology, has been instrumental in driving successful outcomes for both my team and our clients.
+
+---
+
+### Professional Summary
+
+- Technical professional with 11+ years of experience in developing enterprise applications and project execution across various domains.
+- Expertise in software design, analysis, development, testing, and implementation of web and client-server applications using Microsoft Technologies.
+- Implementation of enterprise web solutions for multiple domains like Manufacturing, Finance, Healthcare, Insurance, Education, and Aerospace.
+- Development of Generative AI applications using Azure Open AI, Azure Cognitive Search, and Azure Form Recognizer.
+- Experience in developing large-scale Generative AI applications with prompt engineering.
+- Proficiency in frameworks such as LangChain, Python Open AI SDK, and JavaScript Open AI SDK.
+- Handling embeddings and various vector databases such as Cognitive Search, Chroma DB, and FAISS DB.
+- Managing security, simulations, and hallucinations in Generative AI applications.
+- Enterprise application development using .NET Core, ASP.NET MVC, ASP.NET, C#, Angular, Node.js, jQuery, and JavaScript.
+- SPA application development using Angular.
+- Cloud-based application development using Azure and Docker, including Azure API Management and Azure API Gateway.
+- Working knowledge of Azure Cognitive Services and basic knowledge of AWS Cloud.
+- Experience with third-party UI frameworks like PrimeNG, Bootstrap, Telerik, and Kendo UI.
+- ORM experience with Entity Framework and data access using ADO.NET.
+- MS SQL Server database expertise and LINQ experience.
+- Asynchronous programming and message broker experience with RabbitMQ.
+- Configuration and code setup on IIS.
+- Integration experience with applications like LinkedIn and Yammer.
+- Ownership of development tasks, providing expertise in Microsoft Technologies.
+- Strong analytical and observational skills with a quick learning ability for new technologies.
 
 ---
 
