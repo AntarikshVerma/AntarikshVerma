@@ -7,9 +7,9 @@
 ### About Me
 With over a decade of experience as a Technical Lead, I have established myself as a versatile and accomplished technical professional, Solution Architect, Full Stack Developer, and Microsoft Technology Practitioner.
 
-My expertise encompasses Full Stack Development, Microsoft Technologies, and Cloud Technologies. I am proficient in Angular, .NET Core & MVC, C#, Javascript, Microservices, Cloud (AWS & Azure), LINQ, Entity Framework, WCF, SQL Server, Visual Studio, CSS, HTML, Team Foundation Server, VSTS, and GIT.
+My expertise encompasses Full Stack Development, Generative AI, Microsoft Technologies, and Cloud Technologies. I am proficient in Angular, .NET Core & MVC, C#, Javascript, Microservices, Cloud (AWS & Azure), LINQ, Entity Framework, WCF, SQL Server, Visual Studio, CSS, HTML, Team Foundation Server, VSTS, and GIT.
 
-In addition, I have extensive experience with Generative AI and AI skills including Azure OpenAI, RAG architecture, Azure AI Search, and Azure AI Studio. I have worked with various models such as GPT-3.5 Turbo, GPT-4, LLaMA 2, and LLaMA 3 and various vector databases.
+I have extensive experience with Generative AI and AI skills including Azure OpenAI, RAG architecture, Azure AI Search, and Azure AI Studio. I have worked with various models such as GPT-3.5 Turbo, GPT-4, LLaMA 2, and LLaMA 3 and various vector databases.
 
 One of my key strengths lies in my ability to effectively communicate and collaborate with clients. By closely engaging with them, I ensure a thorough understanding of their project requirements, allowing my team to deliver tailored and impactful solutions. My commitment to delivering high-quality results, combined with my passion for innovation in technology, has been instrumental in driving successful outcomes for both my team and our clients.
 
