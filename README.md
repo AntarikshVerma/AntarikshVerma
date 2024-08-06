@@ -73,5 +73,23 @@ One of my key strengths lies in my ability to effectively communicate and collab
 | ![GIT](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)                               | GIT                                                                        |
 | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)     | Google Colab                                                               |
 
+### Cloud Services
 
+#### Azure Services
+- **Azure Functions**: Serverless compute service to run event-driven code without managing infrastructure.
+- **Azure Cognitive Services**: A suite of APIs to add cognitive capabilities to applications.
+- **Azure Form Recognizer**: Automated data extraction from documents.
+- **Azure AI Studio**: Platform for building, training, and deploying AI models.
+- **Azure OpenAI Studio**: Integration of OpenAI models within Azure services.
+- **Azure API Management**: Service for managing APIs across all environments.
+- **Azure Cognitive Search**: AI-powered cloud search service.
+- **Azure Container Instances**: Run containers without managing servers.
+
+#### AWS Services
+- **AWS Lambda**: Serverless compute service to run code without provisioning or managing servers.
+- **Amazon S3**: Scalable storage in the cloud.
+- **Amazon Rekognition**: Image and video analysis.
+- **AWS API Gateway**: Fully managed service for creating, publishing, and maintaining APIs.
+- **Amazon ECS**: Container orchestration service.
+- **Amazon RDS**: Managed relational database service.
 
